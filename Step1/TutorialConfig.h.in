@@ -1,0 +1,19 @@
+// the configured options and settings for Tutorial
+// TODO 10: Define Tutorial_VERSION_MAJOR and Tutorial_VERSION_MINOR
+
+// the configured options and settings for Tutorial
+#define Tutorial_VERSION_MAJOR @Tutorial_VERSION_MAJOR@
+#define Tutorial_VERSION_MINOR @Tutorial_VERSION_MINOR@
+
+#ifndef TutorialConfig_h
+class A{
+    public:
+    // A();
+    // ~A();
+    void print();
+};
+
+void A::print(){
+    std::cout << "12333";
+}
+#endif
