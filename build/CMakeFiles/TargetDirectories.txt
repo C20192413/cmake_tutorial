@@ -1,0 +1,7 @@
+/media/lsk/lsk2/code/2025/cmake-3.31.4-tutorial-source/build/CMakeFiles/Tutorial.dir
+/media/lsk/lsk2/code/2025/cmake-3.31.4-tutorial-source/build/CMakeFiles/edit_cache.dir
+/media/lsk/lsk2/code/2025/cmake-3.31.4-tutorial-source/build/CMakeFiles/rebuild_cache.dir
+/media/lsk/lsk2/code/2025/cmake-3.31.4-tutorial-source/build/MathFunctions/CMakeFiles/MathFunctions.dir
+/media/lsk/lsk2/code/2025/cmake-3.31.4-tutorial-source/build/MathFunctions/CMakeFiles/SqrtLibrary.dir
+/media/lsk/lsk2/code/2025/cmake-3.31.4-tutorial-source/build/MathFunctions/CMakeFiles/edit_cache.dir
+/media/lsk/lsk2/code/2025/cmake-3.31.4-tutorial-source/build/MathFunctions/CMakeFiles/rebuild_cache.dir

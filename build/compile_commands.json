@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/media/lsk/lsk2/code/2025/cmake-3.31.4-tutorial-source/build",
+  "command": "/usr/bin/g++ -DUSE_MYMATH -I/media/lsk/lsk2/code/2025/cmake-3.31.4-tutorial-source/build -I/media/lsk/lsk2/code/2025/cmake-3.31.4-tutorial-source/Step2/MathFunctions -g -std=gnu++11 -o CMakeFiles/Tutorial.dir/tutorial.cxx.o -c /media/lsk/lsk2/code/2025/cmake-3.31.4-tutorial-source/Step2/tutorial.cxx",
+  "file": "/media/lsk/lsk2/code/2025/cmake-3.31.4-tutorial-source/Step2/tutorial.cxx"
+},
+{
+  "directory": "/media/lsk/lsk2/code/2025/cmake-3.31.4-tutorial-source/build",
+  "command": "/usr/bin/g++ -DUSE_MYMATH -g -std=gnu++11 -o MathFunctions/CMakeFiles/MathFunctions.dir/MathFunctions.cxx.o -c /media/lsk/lsk2/code/2025/cmake-3.31.4-tutorial-source/Step2/MathFunctions/MathFunctions.cxx",
+  "file": "/media/lsk/lsk2/code/2025/cmake-3.31.4-tutorial-source/Step2/MathFunctions/MathFunctions.cxx"
+},
+{
+  "directory": "/media/lsk/lsk2/code/2025/cmake-3.31.4-tutorial-source/build",
+  "command": "/usr/bin/g++ -g -std=gnu++11 -o MathFunctions/CMakeFiles/SqrtLibrary.dir/mysqrt.cxx.o -c /media/lsk/lsk2/code/2025/cmake-3.31.4-tutorial-source/Step2/MathFunctions/mysqrt.cxx",
+  "file": "/media/lsk/lsk2/code/2025/cmake-3.31.4-tutorial-source/Step2/MathFunctions/mysqrt.cxx"
+}
+]
